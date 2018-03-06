@@ -18,6 +18,8 @@
     [super viewDidLoad];
     int A =  10;
     NSLog(@"A = %d",A);
+    int B= 20;
+    NSLog(@"B = %d",B);
     // Do any additional setup after loading the view, typically from a nib.
 }
 
