@@ -20,6 +20,8 @@
     NSLog(@"A = %d",A);
     int B= 20;
     NSLog(@"B = %d",B);
+    int C =40;
+    NSLog(@"C = %d",C);
     // Do any additional setup after loading the view, typically from a nib.
 }
 
